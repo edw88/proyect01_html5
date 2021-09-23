@@ -1,0 +1,12 @@
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/mixins";
+@import "bootstrap/scss/utilities";
+
+.btn-primary1{
+    background-color: blueviolet;
+    color: crimson;
+}
+.bg-dark{
+    background-color: yellow-500 !important;
+}

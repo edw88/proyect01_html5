@@ -1,0 +1,48 @@
+h2{
+    background-color: burlywood; font-size: 20px;
+}
+#mi-titulo{
+   color:#CD5C4C;  
+    font-size: 20px; background-color: rgb(167, 48, 48);
+}
+#mi-texto{
+    background-color:#43bd80; 
+}
+.titulo-estilo{
+    font-size: 40px;
+    font-weight: bold;
+    color:crimson;
+}
+
+.btn{
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    margin-right: 50px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    
+}
+
+.btn-danger{
+    background-color: red;
+    color:antiquewhite;
+    
+}
+
+.btn-primary{
+    background-color: rgb(105, 231, 112);
+    color:rgb(20, 20, 19);    
+}
+
+.btn-position{
+    position: absolute;
+    top: 130px;
+    left: 100px;
+}
+.box-position{
+    position: absolute;
+    top: 130px;
+    left: 100px;
+}
